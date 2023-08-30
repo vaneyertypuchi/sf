@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Wix+Madefor+Display:wght@700&display=swap');
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: rgb(107, 132, 223);
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 30px;
+}
+
+.bg-colorPrincipal {
+    background-color: rgb(62, 160, 226);
+}
+
+
+.btn-exterior-colorPrincipal {
+    border-color: brown;
+}
+
+.btn-exterior-colorPrincipal:hover {
+    background-color: rgb(62, 160, 226);
+}
+
+.bg-principal {
+    background-color: blueviolet;
+}
+
+.bg-primario {
+    background-color: blue;
+}
+
+.bg-warning {
+    background-color: blue;
+}
+
+.bg-color3 {
+    background-color: rgb(223, 219, 219);
+}
+
+.card1 {
+    background-color: rgb(183, 180, 227);
+}
+
+.contenedor {
+    color: rgb(62, 160, 226);
+    margin-top: 30px;
+}
+
+.contenedor2 {
+    margin-top: -40px;
+}
+
+.card-img-top {
+    padding-block-end: 50px;
+}
+
+.texto1 {
+    color: aquamarine;
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 120px;
+    text-align: center;
+}
+
+.contenedor3 {
+    margin-top: -80px;
+}
+
+.texto2 {
+    color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -60px;
+}
+
+.contenedor {
+    color: rgb(107, 132, 223);
+}
+
+.BarraNavegacion a {
+    color: rgb(247, 238, 238);
+    text-decoration: none;
+}
+
+.BarraNavegacion{
+    color: rgb(15, 14, 14);
+}
+
+
+.btn-danger {
+    background-color: gray;
+    border: 0px;
+}
+
+.btn-danger:hover {
+    background-color: rgb(62, 160, 226);
+}
+
+
+.btn-outline-primary:hover {
+    background-color: rgb(62, 160, 226);
+}
+
+.collapse a{
+    color: rgb(247, 238, 238);
+}
